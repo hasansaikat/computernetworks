@@ -1,5 +1,5 @@
 # computernetworks
 
-#network-protocol
-#internet-protocol
-#www
+## network-protocol
+## internet-protocol
+## www
